@@ -1,7 +1,7 @@
-first_name="Mariana"
-last_name="Bueno"
+first_name="M"
+last_name="B"
 age=23
-country="Méxicana"
+country="desconcida"
 full_info=f"Ella es {first_name}  {last_name} y tiene {age} años, tiene nacionalidad {country}"
 
 print(full_info)
